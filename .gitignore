@@ -2,7 +2,6 @@
 # node/npm related
 node_modules/
 *.tgz
-dist/
 coverage/
 *.report.json
 
